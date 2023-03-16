@@ -1,0 +1,15 @@
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/matrix1.csproj.AssemblyReference.cache
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/matrix1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/matrix1.AssemblyInfoInputs.cache
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/matrix1.AssemblyInfo.cs
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/matrix1.csproj.CoreCompileInputs.cache
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/bin/Debug/net6.0/matrix1
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/bin/Debug/net6.0/matrix1.deps.json
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/bin/Debug/net6.0/matrix1.runtimeconfig.json
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/bin/Debug/net6.0/matrix1.dll
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/bin/Debug/net6.0/matrix1.pdb
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/matrix1.dll
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/refint/matrix1.dll
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/matrix1.pdb
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/matrix1.genruntimeconfig.cache
+/Users/trygvebechsgaard/Projects/matrix1/matrix1/obj/Debug/net6.0/ref/matrix1.dll
